@@ -1,7 +1,9 @@
 # potential-parakeet
-ASP.NET CORE 5 
+ASP.NET CORE 5 WEB API
 
-WEB API
+
+Clean Architecture with DDD 
+
 
 CQRS 
 
